@@ -1,0 +1,17 @@
+#monday 6
+#sunday 11 
+#tuesday 2 
+#friday 1
+3 
+#saturday 12  
+#sunday 8
+#saturday 6 
+#playing_games 2 
+#reading 4 
+#monday 2
+3
+#saturday 10 
+#sunday 3
+#saturday 5
+3
+STOP
